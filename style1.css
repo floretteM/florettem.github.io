@@ -1,0 +1,82 @@
+
+  
+
+.header {
+    text-align : center;
+    color : black;
+    font-family : Georgia ;
+    padding : 10px;
+    margin : 10px;
+}
+    
+h1 {
+    font-size : 18pt;
+    padding-bottom : O ;
+}
+
+h2 { font-size : 12pt; }
+
+h3 { padding :0; }
+
+h4 { font-size : 12pt; }
+
+    
+
+#bannerfr {        
+    height: 100px;
+    margin: 0;
+    padding : 0;
+    background : url('bannerfr.jpg') repeat-x;
+}
+
+#banneren {        
+    height: 100px;
+    margin: 0;
+    padding : 0;
+    background : url('banneren.jpg') repeat-x;
+}
+
+.apropos {
+    padding-top : 0;
+    border-color : #80391e;
+    border-width : 2px;
+    border-style : solid dashed;/* haut/bas droite/gauche */
+    border-radius : 5px 15px;/* haut-gauche bas-droitehaut-droite bas-gauche */
+    padding-right : 20px;
+    padding-left : 20px;
+    margin : 2em;
+}
+
+.publications {
+    padding-top : 0;
+    border-color : #9fcc2e;
+    border-width : 2px;
+    border-style : solid dashed;/* haut/bas droite/gauche */
+    border-radius : 5px 15px;/* haut-gauche bas-droitehaut-droite bas-gauche */
+    padding-right : 20px;
+    padding-left : 20px;
+    margin : 2em;
+}
+
+.Enseignements {
+    padding-top : 0;
+    border-color : #ddc3d0;
+    border-width : 2px;
+    border-style : solid dashed;/* haut/bas droite/gauche */
+    border-radius : 5px 15px;/* haut-gauche bas-droitehaut-droite bas-gauche */
+    padding-right : 20px;
+    padding-left : 20px;
+    margin : 2em;
+}
+
+.contact {
+    padding-top : 0;
+    border-color : #735766;
+    border-width : 2px;
+    border-style : solid dashed;/* haut/bas droite/gauche */
+    border-radius : 5px 15px;/* haut-gauche bas-droitehaut-droite bas-gauche */
+    padding-right : 20px;
+    padding-left : 20px;
+    width :500px;
+    margin : 2em;
+}
