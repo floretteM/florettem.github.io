@@ -36,6 +36,34 @@ h4 { font-size : 12pt; }
     background : url('banneren.jpg') repeat-x;
 }
 
+#menu
+{
+  display: flex;
+  justify-content: center;
+  list-style-type: none; /*retirer les puces */
+  /*text-transform: uppercase;  texte écrit en majuscules */
+  font-size: 1.3em;
+
+}
+#menu li
+{
+  margin-right: 3%; /*espacer les titres du menu */
+  list-style-type: none;  /*retirer les puces du menu déroulant */
+}
+#menu a
+{
+  padding-bottom: 3px;
+
+}
+#menu li.page_courante
+{
+  border-bottom: 3px #0000ff solid; /* souligner la page courante*/
+}
+
+
+
+
+
 .apropos {
     padding-top : 0;
     border-color : #80391e;
