@@ -22,13 +22,14 @@ h4 {
 /*LIENS*/
 
 a {
+  color: #437a16;	
   outline: none;
   text-decoration: none;
   padding: 2px 1px 0;
 }
 
 a:visited {
-  color: #437a16;
+  color: #582900;
 }
 
 /*Listes*/
@@ -48,6 +49,7 @@ padding-right: 10%;}
     margin: 0;
     padding : 0;
     background : url('bannerfr.jpg') repeat-x;
+    border-radius : 15px;
 }
 
 #banner2{
@@ -55,6 +57,7 @@ padding-right: 10%;}
     margin: 0;
     padding : 0;
     background : url('banner2.png') repeat-x;
+    border-radius : 15px;
 }
 
 #banner3{
@@ -62,6 +65,7 @@ padding-right: 10%;}
     margin: 0;
     padding : 0;
     background : url('banner3.png') repeat-x;
+    border-radius : 15px;
 }
 
 #banner4{
@@ -69,6 +73,7 @@ padding-right: 10%;}
     margin: 0;
     padding : 0;
     background : url('banner4.png') repeat-x;
+    border-radius : 15px;
 }
 
 
@@ -92,7 +97,7 @@ padding-right: 10%;}
 }
 #menu li.page_courante
 {
-  border-bottom: 3px #0000ff solid; /* souligner la page courante*/
+  border-bottom: 3px #556B2F solid; /* souligner la page courante*/
 }
 
 
