@@ -44,15 +44,15 @@ ul {
 
 
 body{
-padding-left: 10%;
-padding-right: 10%;}
+padding-left: 25%;
+padding-right: 25%;}
 
 
 #banner{
     height: 100px;
     margin: 0;
     padding : 0;
-    background : url('bannerfr.jpg') repeat-x;
+    background : url('banner1.jpg') repeat-x;
     border-radius : 15px;
 }
 
